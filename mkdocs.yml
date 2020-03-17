@@ -1,5 +1,5 @@
 site_name: Blog Informático de Juandi
 nav:
-- Home: index.md
+- Home: index.html
 
 theme: material
