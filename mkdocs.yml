@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Blog Informático de Juandi
+nav:
+- Home: index.md
+
+theme: material
