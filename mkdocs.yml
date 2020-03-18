@@ -4,3 +4,14 @@ nav:
 - Sobre mi: sobremi.md
 
 theme: material
+  palette:
+    primary: 'red'
+    accent: 'red'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: 'img/favicon.ico'
+  favicon: 'img/favicon.ico'
+  language: 'es'
+  feature:
+    tabs: true 
