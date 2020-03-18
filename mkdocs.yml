@@ -1,7 +1,4 @@
 site_name: Blog Informático de Juandi
-nav:
-- Home: index.html
-- Sobre mi: sobremi.md
 
 theme:
   name: 'material'
@@ -16,3 +13,7 @@ theme:
   language: 'es'
   feature:
     tabs: true 
+
+nav:
+- Home: index.html
+- Sobre mi: sobremi.md
