@@ -1,5 +1,5 @@
 <center>
-	<img src="https://i.imgur.com/MHezLPs.jpg" width="200" height="200">
+	<img src="https://i.imgur.com/MHezLPs.jpg" width="200" height="150">
 </center>
 <center>
 	<h1>Juan Diego Abadía Noguera</h1>
