@@ -14,22 +14,22 @@
 <center>
 	<h4>MI PERFIL TÉCNICO</h4>
 	
-    Dominio de equipos GNU/Linux (Debian, Ubuntu, CentOS) y Windows.
-    Dominio de servidores web (Apache, Nginx, Tomcat, memcached, varnish).
-    Implantación de aplicaciones web (Despliegue de Python, Java, CMS PHP).
-    Gestión de servicios DNS y DHCP (Bind9, DNSMasq, ISC-DHCP).
-    Redes (VLAN, Linux bridge, OpenVPN, IPv6).
-    Mantenimiento y seguridad en redes.
-    Virtualización con KVM, Docker, LXC, Kubernetes, VirtualBox.
-    Cloud con OpenStack y OpenShift.
-    Dominio en creación y configuración de entornos de desarrollo virtualizados (Vagrant, Ansible).
-    Programación con Python y bash.
-    Conocimientos básicos de desarrollo en Django.
-    Almacenamiento con RAID, ZFS, Btrfs, iSCSI.
-    Monitorización con InfluxDB, collectd y Grafana.
-    Conocimiento en administración de sistemas gestores de bases de datos (Oracle, MySQL, PostgreSQL y MongoDB).
-    Dominio en software de control de versiones (GitHub y GitLab).
-    Conocimientos en herramientas para la gestión de proyectos (Redmine y Trello).
+   * Dominio de equipos GNU/Linux (Debian, Ubuntu, CentOS) y Windows.
+   * Dominio de servidores web (Apache, Nginx, Tomcat, memcached, varnish).
+   * Implantación de aplicaciones web (Despliegue de Python, Java, CMS PHP).
+   * Gestión de servicios DNS y DHCP (Bind9, DNSMasq, ISC-DHCP).
+   * Redes (VLAN, Linux bridge, OpenVPN, IPv6).
+   * Mantenimiento y seguridad en redes.
+   * Virtualización con KVM, Docker, LXC, Kubernetes, VirtualBox.
+   * Cloud con OpenStack y OpenShift.
+   * Dominio en creación y configuración de entornos de desarrollo virtualizados (Vagrant, Ansible).
+   * Programación con Python y bash.
+   * Conocimientos básicos de desarrollo en Django.
+   * Almacenamiento con RAID, ZFS, Btrfs, iSCSI.
+   * Monitorización con InfluxDB, collectd y Grafana.
+   * Conocimiento en administración de sistemas gestores de bases de datos (Oracle, MySQL, PostgreSQL y MongoDB).
+   * Dominio en software de control de versiones (GitHub y GitLab).
+   * Conocimientos en herramientas para la gestión de proyectos (Redmine y Trello).
 
 </center>
 
