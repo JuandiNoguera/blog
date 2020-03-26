@@ -11,9 +11,9 @@
 	<a title="Gitlab" href="https://gitlab.com/JuandiNoguera"><img src="https://i.imgur.com/pCla36t.png" width="50" height="50"/></a>
 	<a title="Linkedin" href="https://www.linkedin.com/in/juan-diego-abad%C3%ADa-noguera/"><img src="https://i.imgur.com/rpqHQQw.png" width="50" height="50"/></a>
 </center>
-<center>
+<p><center>
 	<h4>MI PERFIL TÉCNICO</h4>
-</center>
+</center></p>
 <ul>	
     <li>Dominio de equipos GNU/Linux (Debian, Ubuntu, CentOS) y Windows.</li>
     <li>Dominio de servidores web (Apache, Nginx, Tomcat, memcached, varnish).</li>
@@ -33,9 +33,9 @@
     <li>Conocimientos en herramientas para la gestión de proyectos (Redmine y Trello).</li>
 </ul>
 
-<center>
+<p><center>
         <h4>FORMACIÓN COMPLEMENTARIA</h4>
-</center>
+</center></p>
 <ul>
   <li> Cursos de Programación y Sistemas:
 	<ul>
