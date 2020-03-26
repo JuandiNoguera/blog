@@ -32,11 +32,10 @@
     <li>Dominio en software de control de versiones (GitHub y GitLab).</li>
     <li>Conocimientos en herramientas para la gestión de proyectos (Redmine y Trello).</li>
 </ul>
-<p> </p>
+<p>	</p>
 <p><center>
         <h4>FORMACIÓN COMPLEMENTARIA</h4>
 </center></p>
-<p> </p>
 <ul>
   <li> Cursos de Programación y Sistemas:
 	<ul>
