@@ -14,7 +14,7 @@
 <p><center>
 	<h4>MI PERFIL TÉCNICO</h4>
 </center></p>
-<ul>	
+<p><ul>	
     <li>Dominio de equipos GNU/Linux (Debian, Ubuntu, CentOS) y Windows.</li>
     <li>Dominio de servidores web (Apache, Nginx, Tomcat, memcached, varnish).</li>
     <li>Implantación de aplicaciones web (Despliegue de Python, Java, CMS PHP).</li>
@@ -31,16 +31,16 @@
     <li>Conocimiento en administración de sistemas gestores de bases de datos (Oracle, MySQL, PostgreSQL y MongoDB).</li>
     <li>Dominio en software de control de versiones (GitHub y GitLab).</li>
     <li>Conocimientos en herramientas para la gestión de proyectos (Redmine y Trello).</li>
-</ul>
+</ul></p>
 
 <p><center>
         <h4>FORMACIÓN COMPLEMENTARIA</h4>
 </center></p>
-<ul>
+<p><ul>
   <li> Cursos de Programación y Sistemas:
 	<ul>
 		<li>SSH. OpenWebinars. Expedición: Noviembre de 2019</li>
 		<li>Despliega un cluster Kubernetes con k3s. OpenWebinars. Expedición: Marzo de 2020</li>
 	</ul>
   </li>
-</ul>
+</ul></p>
