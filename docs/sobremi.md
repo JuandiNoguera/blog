@@ -11,7 +11,9 @@
 	<a title="Gitlab" href="https://gitlab.com/JuandiNoguera"><img src="https://i.imgur.com/pCla36t.png" width="50" height="50"/></a>
 	<a title="Linkedin" href="https://www.linkedin.com/in/juan-diego-abad%C3%ADa-noguera/"><img src="https://i.imgur.com/rpqHQQw.png" width="50" height="50"/></a>
 </center>
+
 <br></br>
+
 <center>
 	<h4>MI PERFIL TÉCNICO</h4>
 </center>
